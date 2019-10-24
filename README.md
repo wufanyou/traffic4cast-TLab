@@ -9,14 +9,23 @@ For more information, please read this report (__to be updated__).
 
    e.g. `python process.py --city Moscow -i ./data/`
    
+   process.py: generate all useful features. In order to increase IO performance, each feature is a npy file.
+   
+   
 2. run train\_v17.py
 
    e.g. `python train_v17.py --city Moscow -ch 2 --crop 0 -o ./`
+   
+   train\_v17.py: train models.
    
 3. run test\_v17.py
 
    e.g. `python test_v17.py --city Moscow -ch 2 --crop 0 -o ./ -m ./`
    
+   test\_v17.py: output prediction.
+   
 4. run gen\_v17.py
 
    e.g. `python gen_v17.py --city Moscow `
+   
+   gen\_v17.py: generate submission.
