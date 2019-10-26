@@ -1,4 +1,4 @@
-# traffic4cast-TLab
+# Traffic4cast-TLab
 
 This repository is our solution to NeroIPS 2019 traffic4cast Competations.
 
