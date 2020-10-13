@@ -1,6 +1,6 @@
 # Traffic4cast-TLab
 
-This repository is our solution to NeurIPS 2019 traffic4cast Competations.
+This repository is our solution to NeurIPS 2019 traffic4cast competition.
 
 We ranked 4<sup>th</sup> in the public leadboard.
 
