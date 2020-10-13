@@ -2,7 +2,7 @@
 
 This repository is our solution to NeurIPS 2019 traffic4cast competition.
 
-We ranked 4<sup>th</sup> in the public leadboard.
+We ranked 4<sup>th</sup> in the public leaderboard.
 
 For more information, please read `traffic4cast-report.pdf` in this repository.
   
